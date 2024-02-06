@@ -1,0 +1,76 @@
+title: Attack Animation Colors (Red)
+description: Replaces the colors of some of Sora's attacks!
+assets:
+#PC ONLY
+- name: remastered\obj\P_EX100.a.us\-0.dds
+  multi:
+  - name: remastered\obj\P_EX100_NM.a.us\-0.dds
+  - name: remastered\obj\P_EX100_XM.a.us\-0.dds
+  - name: remastered\obj\P_EX100_TR.a.us\-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Animations\-0.dds
+- name: remastered\obj\P_EX100.a.us\-1.dds
+  multi:
+  - name: remastered\obj\P_EX100_NM.a.us\-1.dds
+  - name: remastered\obj\P_EX100_XM.a.us\-1.dds
+  - name: remastered\obj\P_EX100_TR.a.us\-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Animations\-1.dds
+- name: remastered\obj\P_EX100.a.us\-2.dds
+  multi:
+  - name: remastered\obj\P_EX100_NM.a.us\-2.dds
+  - name: remastered\obj\P_EX100_XM.a.us\-2.dds
+  - name: remastered\obj\P_EX100_TR.a.us\-2.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Animations\-2.dds
+- name: remastered\obj\P_EX100.a.us\-3.dds
+  multi:
+  - name: remastered\obj\P_EX100_NM.a.us\-3.dds
+  - name: remastered\obj\P_EX100_XM.a.us\-3.dds
+  - name: remastered\obj\P_EX100_TR.a.us\-3.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Animations\-3.dds
+- name: remastered\obj\P_EX100.a.us\-4.dds
+  multi:
+  - name: remastered\obj\P_EX100_NM.a.us\-4.dds
+  - name: remastered\obj\P_EX100_XM.a.us\-4.dds
+  - name: remastered\obj\P_EX100_TR.a.us\-4.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Animations\-4.dds
+- name: remastered\obj\P_EX100.a.us\-5.dds
+  multi:
+  - name: remastered\obj\P_EX100_NM.a.us\-5.dds
+  - name: remastered\obj\P_EX100_XM.a.us\-5.dds
+  - name: remastered\obj\P_EX100_TR.a.us\-5.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Animations\-5.dds
+- name: remastered\obj\P_EX100.a.us\-6.dds
+  multi:
+  - name: remastered\obj\P_EX100_NM.a.us\-6.dds
+  - name: remastered\obj\P_EX100_XM.a.us\-6.dds
+  - name: remastered\obj\P_EX100_TR.a.us\-6.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Animations\-6.dds
+- name: remastered\obj\P_EX100.a.us\-7.dds
+  multi:
+  - name: remastered\obj\P_EX100_NM.a.us\-7.dds
+  - name: remastered\obj\P_EX100_XM.a.us\-7.dds
+  - name: remastered\obj\P_EX100_TR.a.us\-7.dds
+  platform: pc
+  method: copy
+  source:
+  - name: Animations\-7.dds
